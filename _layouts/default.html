@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      body { background-color: #0f111a; color: #b0b3c1; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .main-content { background-color: #0f111a; max-width: 800px; margin: 0 auto; padding: 2rem; line-height: 1.6; }
+      .main-content h1, .main-content h2, .main-content h3 { color: #ffffff; margin-top: 2rem; }
+      .page-header { background: #0a0c14; border-bottom: 1px solid rgba(255,255,255,0.05); padding: 4rem 2rem; text-align: center; }
+      .project-name { font-size: 3rem; margin-bottom: 0.5rem; color: #ffffff; font-weight: 800; }
+      .project-tagline { color: #ffffff !important; font-weight: normal; font-size: 1.1rem; opacity: 0.7; margin-top: 1rem; }
+      .btn { color: #fff; border-color: rgba(255, 255, 255, 0.2); }
+      .footer { border-top: 1px solid rgba(255,255,255,0.05); margin-top: 4rem; padding-top: 2rem; font-size: 0.85rem; color: #4b5563; }
+      .smart-name { color: #ffffff; }
+      .rupee-name { color: #00d084; font-weight: bold; }
+      .brand-logo { display: inline-block; background: #1a1d2e; padding: 1rem; border-radius: 1.5rem; margin-bottom: 1.5rem; border: 1px solid rgba(255,255,255,0.1); }
+      a { color: #3b82f6; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      code { background: #1a1d2e; padding: 0.2rem 0.4rem; border-radius: 4px; color: #e5e7eb; }
+    </style>
+  </head>
+  <body>
+    <section class="page-header">
+      <div class="brand-logo">
+        <h1 class="project-name"><span class="smart-name">Smart</span> <span class="rupee-name">Rupee</span></h1>
+      </div>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-owner">&copy; 2026 ArcMint Studios. All rights reserved.</span><br>
+        <span class="site-footer-credits">Support: <a href="mailto:arcmintstudios@gmail.com">arcmintstudios@gmail.com</a></span>
+      </footer>
+    </section>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+title: Smart Rupee Support
+description: Official documentation and legal policies for Smart Rupee users.
+
+# Customization
+author: ArcMint Studios
+show_downloads: false
+google_analytics: 
+
+# Header Colors
+header_background_color: "#0f111a"
+header_text_color: "#ffffff"
+tagline_color: "#ffffff"

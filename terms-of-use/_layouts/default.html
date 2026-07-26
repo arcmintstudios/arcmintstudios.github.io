@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .main-content h1, .main-content h2, .main-content h3 { color: #3b82f6; }
+      .page-header { background-color: #0f111a; background-image: none; padding: 3rem 4rem; }
+      .btn { color: #fff; border-color: rgba(255, 255, 255, 0.2); }
+      .footer { border-top: 1px solid #eee; margin-top: 3rem; padding-top: 2rem; font-size: 0.9rem; color: #666; }
+    </style>
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-owner">&copy; 2026 ArcMint Studios. All rights reserved.</span>
+        <span class="site-footer-credits">Documentation for Smart Rupee Application</span>
+      </footer>
+    </section>
+  </body>
+</html>
