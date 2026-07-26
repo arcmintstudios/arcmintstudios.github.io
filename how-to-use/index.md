@@ -3,7 +3,7 @@ layout: default
 title: How to Use
 ---
 
-# How to Use <span class="smart-name">Smart</span> <span class="rupee-name">Rupee</span>
+# How to Usage Guide
 
 <span class="smart-name">Smart</span> <span class="rupee-name">Rupee</span> is your personal finance companion that automatically tracks your spending, helps you save for goals, and manages your entire portfolio in one place.
 

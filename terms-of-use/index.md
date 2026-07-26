@@ -3,7 +3,7 @@ layout: default
 title: Terms of Use
 ---
 
-# Terms of Use for <span class="smart-name">Smart</span> <span class="rupee-name">Rupee</span>
+# Terms of Use 
 
 Last updated: July 25, 2026
 

@@ -1,4 +1,4 @@
-# <span class="smart-name">Smart</span> <span class="rupee-name">Rupee</span> Documentation
+
 
 Official support site for the <span class="smart-name">Smart</span> <span class="rupee-name">Rupee</span> personal finance application.
 

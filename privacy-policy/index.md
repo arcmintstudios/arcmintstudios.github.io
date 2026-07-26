@@ -3,7 +3,7 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy for <span class="smart-name">Smart</span> <span class="rupee-name">Rupee</span>
+# Privacy Policy 
 
 Last updated: July 25, 2026
 
