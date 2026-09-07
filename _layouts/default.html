@@ -24,9 +24,9 @@
   <body>
     <section class="page-header">
       <div class="brand-logo">
-        <img src="{{ '/assets/images/smart-rupee-logo.png' | relative_url }}" alt="Smart Rupee Logo">
+        <img src="{{ page.logo | default: '/assets/images/smart-rupee-logo.png' | relative_url }}" alt="{{ page.app_name | default: 'Smart Rupee' }} Logo">
       </div>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ page.tagline | default: site.description | default: site.github.project_tagline }}</h2>
     </section>
 
     <section class="main-content">
