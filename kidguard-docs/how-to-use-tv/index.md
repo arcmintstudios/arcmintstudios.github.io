@@ -16,7 +16,7 @@ KidGuard TV is the free companion app installed on your kid's Android TV. It doe
 - Once paired, the TV enforces whatever locks, schedules, and time limits you set from the phone — you won't need to touch the TV remote for day-to-day changes.
 
 ## 2. What Your Kid Sees
-- A locked app shows a lock screen with a 4-digit PIN entry — the current PIN is visible on your phone's Dashboard at all times, and rotates periodically for security.
+- A locked app shows a lock screen with a 4-digit PIN entry — the current PIN is visible on your phone's Dashboard at all times, and rotates automatically every 5 minutes for security.
 - Apps you haven't locked open normally, exactly as before KidGuard was installed.
 
 ## 3. Entering the PIN Directly on the TV

@@ -20,10 +20,10 @@ You may use KidGuard only on devices you own or are legally responsible for. You
 
 ## 3. Subscriptions and In-App Purchases
 KidGuard offers the following paid options through Google Play, purchased from the KidGuard Parent app:
-- Monthly subscription (₹10/month) — auto-renews monthly
-- Quarterly subscription (₹25/3 months) — auto-renews every 3 months
-- Yearly subscription (₹80/year) — auto-renews annually
-- Lifetime access (₹199 one-time purchase)
+- Monthly subscription (₹49/month) — auto-renews monthly
+- Quarterly subscription (₹135/3 months) — auto-renews every 3 months
+- Yearly subscription (₹449/year) — auto-renews annually
+- Lifetime access (₹1,499 one-time purchase)
 
 Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription at any time via **Google Play → Subscriptions**. No refunds are provided for unused portions of a billing period except where required by applicable law.
 

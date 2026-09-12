@@ -40,11 +40,13 @@ KidGuard Parent is the app you install on your own phone. It pairs with the free
 ## 7. Account & Settings
 - **Paired Devices** — see every phone approved to control this TV, and remove ones that shouldn't have access anymore.
 - **Emergency PIN** — your TV recovery code, separate from the rotating 4-digit PIN, for when the TV can't reach this phone at all.
+- Optionally sign in with Google or email so your Pro status and trial stay in sync if you reinstall the app or switch to a new phone — signing in is not required to use KidGuard.
 - Sign out, or unpair this phone from the TV, from the same screen.
 
 ## 8. KidGuard Pro
 - New installs get a **7-day free trial** with full access, no card required.
 - **Pro** unlocks Bedtime schedules and Daily Time Limits; the free tier covers manual lock/unlock, Pause TV, and per-app locking.
+- Choose Monthly, Quarterly, or Yearly billing, or a one-time Lifetime purchase — all through Google Play Billing.
 - Manage or cancel a subscription any time via Google Play → Subscriptions.
 
 ---
